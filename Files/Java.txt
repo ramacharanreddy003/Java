@@ -1,0 +1,4 @@
+Java is an object-oriented programming language.
+Java is introduced by James Gosling.
+Java is a write once compile anywhere programming language.
+It is a platform independent programming language.
